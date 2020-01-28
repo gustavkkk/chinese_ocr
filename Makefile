@@ -1,3 +1,15 @@
+# written by junying
+# 2020-01-28
+
+# numpy==1.16.2
+# opencv-python==4.1.2.30
+# opencv-python=4.1.2.30
+# scipy==1.2.2
+# matplotlib==2.2.4
+# pillow==6.2.1
+# easydict==1.9
+# h5py==2.10.0
+# PyYAML==5.1.1
 prerequisites:
 	@pip install numpy scipy matplotlib pillow
 	@pip install easydict opencv-python h5py PyYAML

@@ -5,11 +5,13 @@
 * 文本识别：DenseNet + CTC
 
 ## 环境部署
-``` Bash
-sh setup.sh
 ```
-* 注：CPU环境执行前需注释掉for gpu部分，并解开for cpu部分的注释
+[cpu]
+make install.cpu
 
+[gpu]
+make install.gpu
+```
 ## Demo
 将测试图片放入test_images目录，检测结果会保存到test_result中
 
