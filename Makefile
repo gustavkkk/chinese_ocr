@@ -1,6 +1,7 @@
 # written by junying
 # 2020-01-28
-
+# ctpn was built in python2, it doesn't work in python3
+#
 # numpy==1.16.2
 # opencv-python==4.1.2.30
 # opencv-python=4.1.2.30
